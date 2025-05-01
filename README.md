@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Zainal Mutaqin👋
+
+![zainal547](img/BackgrounGit.jpg)
 
 <!--
 **zainal547/zainal547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **PT 97 Furniture**
+- 🌱 I’m currently learning course online [**Codepolitan**](https://www.codepolitan.com/home/)
